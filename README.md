@@ -12,7 +12,7 @@ $ npm install
 ```bash
 sudo -u postgres psql -c 'create database NAME;'
 ```
-Copy the .env.example file to .development.env the variables according to your database configuration.
+Copy the `.env.example` file to `.development.env` the variables according to your database configuration.
 
 ## Compile and run the project
 
